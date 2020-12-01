@@ -2,7 +2,7 @@
 
 # node-js-project
 run commands: sudo mongod,
-sudo mongo
+sudo mongo,
 npm start
 
 # angular-project
