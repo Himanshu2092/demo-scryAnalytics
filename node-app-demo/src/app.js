@@ -12,7 +12,7 @@ const responseFactory = require('./response')
 const port = config.development.port;
 
 
-// TODO: some CORS|404 (not found) issues are coming from frontend side
+// TODO: some CORS|404 (not found) issues are coming
 
 /* const http = require('http')
 const server = http.Server(app)
